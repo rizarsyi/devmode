@@ -9,4 +9,4 @@
 
 echo 'Install Redis'
 yes | sudo apt-get install redis-server
-echo 'Redis install completed. '
+echo 'Redis install completed.'
