@@ -8,5 +8,5 @@
 ##############################################################
 
 echo 'Install Redis'
-yes | sudo apt-get install redis-server
+sudo apt-get install -y redis-server
 echo 'Redis install completed.'
